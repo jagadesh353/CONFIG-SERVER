@@ -1,3 +1,4 @@
+checkmessage: success
 spring:
   datasource:
     username: root
